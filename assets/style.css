@@ -70,7 +70,7 @@ header nav ul li{
 }
 
 .grid-item1 {
-    background-image: url(./iCamp_screenshot.PNG); 
+    background-image: url(./iCamp_screenshot.PNG);
     background-size: contain;
     grid-column-start: 2;
     grid-column-end: 4;
